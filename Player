@@ -1,0 +1,8 @@
+    abstract class Player
+    {
+        public abstract void getSeasonStats(string position);
+
+        public abstract void getPlayerInfo();
+
+        public abstract int assignSquadNumber();
+    }
